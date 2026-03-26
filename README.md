@@ -7,10 +7,17 @@ Daily DSA practice.
 - Day 2 ✅ → Max Subarray, Move Zeroes, Missing Number, Stock Profit, Contains Duplicate
 - Day 3 ✅ → Reverse String, First Unique Char, Valid Anagram
 - Day 4 ✅ → Climbing Stairs (DP), Single Number (XOR), Plus One (Array)
+<<<<<<< HEAD
 - Day 5 ->pointerTwoSum,StocksGreedy,Max Sub Array
 - Day 6 ->length of long substring,character replacement,min size sub array
 - Day 7 ->mid of linked list,min window substring,reverse linked list
 
 
+=======
+- Day 5->pointerTwoSum,StocksGreedy,Max Sub Array
+- Day 6->length of long substring,character replacement,min size sub array
+- Day 7->mid of linked list,min window substring,reverse linked list
+  
+>>>>>>> aaa45e16372f6ade6f90f36a0fd728396df804c9
 Total     → 22 problems solved! 🔥
 GitHub    → 7 folders live! 🌟
