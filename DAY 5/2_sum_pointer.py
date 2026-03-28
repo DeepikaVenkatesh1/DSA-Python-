@@ -15,7 +15,3 @@ class Solution:
                 right -= 1
 sol=Solution()
 print(sol.twoSum([1,2,3,4,5],7))
-
-
-
-
