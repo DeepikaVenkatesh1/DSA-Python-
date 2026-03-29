@@ -12,8 +12,9 @@ Daily DSA practice.
 - Day 7->mid of linked list,min window substring,reverse linked list\
 - Day 8->factorial , fibonacci series,power of two
 - Day 9 ->bubble sort,selection sort,dutch algorithm
+- Day 10 ->Revision
 
 
 
-Total     → 28 problems solved! 🔥
-GitHub    → 9 folders live! 🌟
+Total     → 30 problems solved! 🔥
+GitHub    → 10 folders live! 🌟
