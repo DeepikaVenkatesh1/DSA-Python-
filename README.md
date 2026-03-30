@@ -13,8 +13,8 @@ Daily DSA practice.
 - Day 8->factorial , fibonacci series,power of two
 - Day 9 ->bubble sort,selection sort,dutch algorithm
 - Day 10 ->Revision
+- Day 11 -> Binary search, insert,bad version
 
 
-
-Total     → 30 problems solved! 🔥
-GitHub    → 10 folders live! 🌟
+Total     → 33 problems solved! 🔥
+GitHub    → 11 folders live! 🌟
