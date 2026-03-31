@@ -14,6 +14,7 @@ Daily DSA practice.
 - Day 9 ->bubble sort,selection sort,dutch algorithm
 - Day 10 ->Revision
 - Day 11 -> Binary search, insert,bad version
+- Day 12 ->linked list
 
 
 Total     → 33 problems solved! 🔥
