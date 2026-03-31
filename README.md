@@ -15,7 +15,8 @@ Daily DSA practice.
 - Day 10 ->Revision
 - Day 11 -> Binary search, insert,bad version
 - Day 12 ->linked list
+- Day 13 -> linked list
 
 
-Total     → 33 problems solved! 🔥
-GitHub    → 11 folders live! 🌟
+Total     → 39 problems solved! 🔥
+GitHub    → 13 folders live! 🌟
