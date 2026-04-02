@@ -17,6 +17,7 @@ Daily DSA practice.
 - Day 12 ->linked list
 - Day 13 -> linked list
 - Day 14 -> Stacks
+- Day 15 -> 3sum,most water,traping rain water
 
 
 Total     → 42 problems solved! 🔥
