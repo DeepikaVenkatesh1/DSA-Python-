@@ -19,7 +19,8 @@ Daily DSA practice.
 - Day 14 -> Stacks
 - Day 15 -> 3sum,most water,traping rain water
 - Day 16 -> max depth of BT,invert BT,symmetric tree
+- Day 17 -> dynamic programming
 
 
-Total     → 45 problems solved! 🔥
-GitHub    → 16 folders live! 🌟
+Total     → 48 problems solved! 🔥
+GitHub    → 17 folders live! 🌟
