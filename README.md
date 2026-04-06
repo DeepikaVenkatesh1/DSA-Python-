@@ -21,7 +21,8 @@ Daily DSA practice.
 - Day 16 -> max depth of BT,invert BT,symmetric tree
 - Day 17 -> dynamic programming
 - Day 18 ->Revision
+- Day 19 -> graphs
 
 
-Total     → 52 problems solved! 🔥
-GitHub    → 18 folders live! 🌟
+Total     → 55 problems solved! 🔥
+GitHub    → 19 folders live! 🌟
