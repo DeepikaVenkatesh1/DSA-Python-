@@ -16,17 +16,13 @@ class Solution:
                 current.append(remaining[i])
                 backtrack(current,
                          remaining[:i] + remaining[i+1:])
-                current.pop()           # backtrack!
-
+                current.pop()        
         backtrack([], nums)
         return result
 
-# Testing
 sol = Solution()
 print(sol.permute([1,2,3]))
-# [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]]
 print(sol.permute([0,1]))
-# [[0,1],[1,0]]
 
 
     
